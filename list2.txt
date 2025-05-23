@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/waydroirdtest/dd-mfp/refs/heads/main/247ita.m3u8
+https://raw.githubusercontent.com/waydroirdtest/dd-mfp/refs/heads/main/channels_italy.m3u8
+https://raw.githubusercontent.com/waydroirdtest/dd-mfp/refs/heads/main/fullita.py
+https://raw.githubusercontent.com/Brenders/Pluto-TV-Italia-M3U/main/PlutoItaly.m3u
